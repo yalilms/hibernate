@@ -1,0 +1,6 @@
+org/yalil/tierramedia/model/Personaje.class
+org/yalil/tierramedia/dao/RazaDAO.class
+org/yalil/tierramedia/model/Raza.class
+org/yalil/tierramedia/dao/PersonajeDAO.class
+org/yalil/tierramedia/util/HibernateUtil.class
+org/yalil/tierramedia/Main.class
